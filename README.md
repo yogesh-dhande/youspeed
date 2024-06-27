@@ -1,3 +1,3 @@
 # YouSpeed
 
-Control the speed of Youtube videos by scroll the mouse.
+YouSpeed is a Chrome extension that enhances your YouTube viewing experience by allowing you to control video playback speed using your mouse scroll wheel.
