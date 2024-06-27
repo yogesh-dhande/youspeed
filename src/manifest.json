@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "YouSpeed",
+  "description": "Control the YouTube video speed with the mouse wheel",
+  "version": "1.0.0",
+  "icons": {
+    "128": "images/icon128.jpeg"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://www.youtube.com/"],
+      "js": ["js/contentScript.js"]
+    }
+  ]
+}
